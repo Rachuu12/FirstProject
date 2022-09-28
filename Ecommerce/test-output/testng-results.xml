@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-26T21:50:27 IST" name="Default suite" finished-at="2022-09-26T21:50:36 IST" duration-ms="9163">
+    <groups>
+    </groups>
+    <test started-at="2022-09-26T21:50:27 IST" name="Default test" finished-at="2022-09-26T21:50:36 IST" duration-ms="9163">
+      <class name="loginModule.T001_Test">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:loginModule.T001_Test@3d51f06e]" started-at="2022-09-26T21:50:21 IST" name="launchBrowser" finished-at="2022-09-26T21:50:27 IST" duration-ms="5580" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="navigateToApplication()[pri:0, instance:loginModule.T001_Test@3d51f06e]" started-at="2022-09-26T21:50:27 IST" name="navigateToApplication" finished-at="2022-09-26T21:50:31 IST" duration-ms="4490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToApplication -->
+        <test-method signature="checkdatafromexcel(java.lang.String,java.lang.String)[pri:0, instance:loginModule.T001_Test@3d51f06e]" started-at="2022-09-26T21:50:33 IST" name="checkdatafromexcel" data-provider="testdata" finished-at="2022-09-26T21:50:33 IST" duration-ms="375" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[12.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[8.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkdatafromexcel -->
+        <test-method signature="checkdatafromexcel(java.lang.String,java.lang.String)[pri:0, instance:loginModule.T001_Test@3d51f06e]" started-at="2022-09-26T21:50:33 IST" name="checkdatafromexcel" data-provider="testdata" finished-at="2022-09-26T21:50:34 IST" duration-ms="239" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sam123@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[16.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkdatafromexcel -->
+        <test-method signature="checkdatafromexcel(java.lang.String,java.lang.String)[pri:0, instance:loginModule.T001_Test@3d51f06e]" started-at="2022-09-26T21:50:34 IST" name="checkdatafromexcel" data-provider="testdata" finished-at="2022-09-26T21:50:34 IST" duration-ms="329" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sam123@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ab123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkdatafromexcel -->
+        <test-method signature="checkdatafromexcel(java.lang.String,java.lang.String)[pri:0, instance:loginModule.T001_Test@3d51f06e]" started-at="2022-09-26T21:50:34 IST" name="checkdatafromexcel" data-provider="testdata" finished-at="2022-09-26T21:50:34 IST" duration-ms="262" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ABCDefgh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ABCDefgh]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkdatafromexcel -->
+        <test-method signature="checkdatafromexcel(java.lang.String,java.lang.String)[pri:0, instance:loginModule.T001_Test@3d51f06e]" started-at="2022-09-26T21:50:34 IST" name="checkdatafromexcel" data-provider="testdata" finished-at="2022-09-26T21:50:35 IST" duration-ms="222" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sddg]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abcdefghijklmn15]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkdatafromexcel -->
+        <test-method signature="checkdatafromexcel(java.lang.String,java.lang.String)[pri:0, instance:loginModule.T001_Test@3d51f06e]" started-at="2022-09-26T21:50:35 IST" name="checkdatafromexcel" data-provider="testdata" finished-at="2022-09-26T21:50:35 IST" duration-ms="232" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[12345@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkdatafromexcel -->
+        <test-method signature="checkdatafromexcel(java.lang.String,java.lang.String)[pri:0, instance:loginModule.T001_Test@3d51f06e]" started-at="2022-09-26T21:50:35 IST" name="checkdatafromexcel" data-provider="testdata" finished-at="2022-09-26T21:50:35 IST" duration-ms="188" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[#$]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[B12]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkdatafromexcel -->
+        <test-method signature="checkdatafromexcel(java.lang.String,java.lang.String)[pri:0, instance:loginModule.T001_Test@3d51f06e]" started-at="2022-09-26T21:50:35 IST" name="checkdatafromexcel" data-provider="testdata" finished-at="2022-09-26T21:50:35 IST" duration-ms="222" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[eihdmmdfjd]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jdjfdldlld]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkdatafromexcel -->
+        <test-method signature="checkdatafromexcel(java.lang.String,java.lang.String)[pri:0, instance:loginModule.T001_Test@3d51f06e]" started-at="2022-09-26T21:50:35 IST" name="checkdatafromexcel" data-provider="testdata" finished-at="2022-09-26T21:50:35 IST" duration-ms="204" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5s7ds8ds9d]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jnjdhfdf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkdatafromexcel -->
+        <test-method signature="checkdatafromexcel(java.lang.String,java.lang.String)[pri:0, instance:loginModule.T001_Test@3d51f06e]" started-at="2022-09-26T21:50:35 IST" name="checkdatafromexcel" data-provider="testdata" finished-at="2022-09-26T21:50:36 IST" duration-ms="233" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dsfdfrg]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dgg]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkdatafromexcel -->
+        <test-method signature="checkdatafromexcel(java.lang.String,java.lang.String)[pri:0, instance:loginModule.T001_Test@3d51f06e]" started-at="2022-09-26T21:50:36 IST" name="checkdatafromexcel" data-provider="testdata" finished-at="2022-09-26T21:50:36 IST" duration-ms="250" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dfdgfgfghh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[fdfgfg]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkdatafromexcel -->
+        <test-method signature="checkdatafromexcel(java.lang.String,java.lang.String)[pri:0, instance:loginModule.T001_Test@3d51f06e]" started-at="2022-09-26T21:50:36 IST" name="checkdatafromexcel" data-provider="testdata" finished-at="2022-09-26T21:50:36 IST" duration-ms="197" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sdfdg]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dfdffg]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkdatafromexcel -->
+        <test-method is-config="true" signature="logoutFromApplication()[pri:0, instance:loginModule.T001_Test@3d51f06e]" started-at="2022-09-26T21:50:36 IST" name="logoutFromApplication" finished-at="2022-09-26T21:50:36 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutFromApplication -->
+        <test-method is-config="true" signature="teardownTheBrowser()[pri:0, instance:loginModule.T001_Test@3d51f06e]" started-at="2022-09-26T21:50:36 IST" name="teardownTheBrowser" finished-at="2022-09-26T21:50:36 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownTheBrowser -->
+      </class> <!-- loginModule.T001_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
